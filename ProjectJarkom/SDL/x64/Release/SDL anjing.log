@@ -1,0 +1,23 @@
+﻿D:\visual studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1116,5): warning MSB8027: Two or more files with the name of Main.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\Main.cpp, main.cpp.
+  Main.cpp
+D:\Kuliah\kuliah\SEMESTER 5\jARINGAN KOM\Main.cpp(2,10): fatal  error C1083: Cannot open include file: 'RoboCatPCH.h': No such file or directory
+  RoboCatPCH.cpp
+D:\Kuliah\kuliah\SEMESTER 5\jARINGAN KOM\RoboCatPCH.cpp(1,10): fatal  error C1083: Cannot open include file: 'RoboCatPCH.h': No such file or directory
+  SocketAddress.cpp
+D:\Kuliah\kuliah\SEMESTER 5\jARINGAN KOM\SocketAddress.cpp(1,10): fatal  error C1083: Cannot open include file: 'RoboCatPCH.h': No such file or directory
+  SocketAddressFactory.cpp
+D:\Kuliah\kuliah\SEMESTER 5\jARINGAN KOM\SocketAddressFactory.cpp(1,10): fatal  error C1083: Cannot open include file: 'RoboCatPCH.h': No such file or directory
+  SocketUtil.cpp
+D:\Kuliah\kuliah\SEMESTER 5\jARINGAN KOM\SocketUtil.cpp(1,10): fatal  error C1083: Cannot open include file: 'RoboCatPCH.h': No such file or directory
+  StringUtils.cpp
+D:\Kuliah\kuliah\SEMESTER 5\jARINGAN KOM\StringUtils.cpp(1,10): fatal  error C1083: Cannot open include file: 'RoboCatPCH.h': No such file or directory
+  TCPSocket.cpp
+D:\Kuliah\kuliah\SEMESTER 5\jARINGAN KOM\TCPSocket.cpp(1,10): fatal  error C1083: Cannot open include file: 'RoboCatPCH.h': No such file or directory
+  UDPSocket.cpp
+D:\Kuliah\kuliah\SEMESTER 5\jARINGAN KOM\UDPSocket.cpp(1,10): fatal  error C1083: Cannot open include file: 'RoboCatPCH.h': No such file or directory
+  Cliennt.cpp
+D:\Kuliah\kuliah\SEMESTER 5\jARINGAN KOM\SDL-anjing-main\SDL anjing\Cliennt.cpp(1,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  MainServer.cpp
+D:\Kuliah\kuliah\SEMESTER 5\jARINGAN KOM\SDL-anjing-main\SDL anjing\MainServer.cpp(1,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  main.cpp
+D:\Kuliah\kuliah\SEMESTER 5\jARINGAN KOM\SDL-anjing-main\SDL anjing\main.cpp(1,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
